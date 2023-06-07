@@ -12,4 +12,4 @@ Abrir a pasta raiz no vscode e rodar o json server:
 npx json-server --watch db.json
 ```
 
-Rodar: browser-sync start --server --file . --host --port 5000 --startPath admin/telas/lista_cliente.html
+Logo depois, usar a extensão Live Server e seguir para a rota "telas/lista_cliente.html".
